@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".GitIntroActivity"></activity>
+        <activity android:name=".GitIntroActivity" />
+        <activity android:name=".HardThingActivity"></activity>
     </application>
 
 </manifest>
