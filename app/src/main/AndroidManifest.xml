@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".GitIntroActivity" />
-        <activity android:name=".HardThingActivity"></activity>
+        <activity android:name=".HardThingActivity" />
+        <activity android:name=".GoGuideActivity"></activity>
     </application>
 
 </manifest>
